@@ -14,6 +14,6 @@ Play SAHUR ZOO on Roblox: https://www.roblox.com/games/107649210185098
 
 This game is an entry to the make.fun roblox-brainrot-01 bounty: https://make.fun/bounty/roblox-brainrot-01
 
-![make.fun bounty](https://make.fun/badge/roblox-brainrot-01.svg)
-![rank](https://make.fun/badge/roblox-brainrot-01/Adwiea-0x/sahur-zoo/rank.svg)
-![reward](https://make.fun/badge/roblox-brainrot-01/Adwiea-0x/sahur-zoo/reward.svg)
+[![make.fun · roblox-brainrot-01](https://make.fun/badge/roblox-brainrot-01.svg)](https://make.fun/bounty/roblox-brainrot-01?utm_source=github&utm_medium=readme&utm_campaign=roblox-brainrot-01)
+[![rank](https://make.fun/badge/roblox-brainrot-01/Adwiea-0x/sahur-zoo/rank.svg)](https://make.fun/bounty/roblox-brainrot-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=roblox-brainrot-01)
+[![reward](https://make.fun/badge/roblox-brainrot-01/Adwiea-0x/sahur-zoo/reward.svg)](https://make.fun/bounty/roblox-brainrot-01?utm_source=github&utm_medium=readme&utm_campaign=roblox-brainrot-01)
